@@ -1,8 +1,0 @@
-settings:
-  username: finallyjay
-  commit_msg: "chore: update recent activity"
-  max_lines: 7
-  readme_file: ./README.md
-  disabled_events:
-    - WatchEvent
-    - MemberEvent
