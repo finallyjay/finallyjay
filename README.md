@@ -29,12 +29,7 @@ I build things for the web — from robust backends to interactive frontends.
 
 ### GitHub Stats
 
-<p>
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=finallyjay&show_icons=true&theme=github_dark&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=finallyjay&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" />
-</p>
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=finallyjay&theme=github-dark-blue&hide_border=true)](https://github.com/finallyjay)
+![Stats](https://raw.githubusercontent.com/finallyjay/finallyjay/master/profile-summary-card-output/github_dark/3-stats.svg)
 
 ---
 

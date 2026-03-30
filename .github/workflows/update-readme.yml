@@ -1,4 +1,4 @@
-name: Update README with Recent Activity
+name: Update README
 
 on:
   schedule:
@@ -19,3 +19,15 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
           CONFIG_FILE: .github/recent-activity.config.yml
+
+  update-stats:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: vn7n24fzkq/github-profile-summary-cards@v0.6.1
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          USERNAME: finallyjay
+          BRANCH_NAME: master
