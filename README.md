@@ -1,8 +1,6 @@
 # Hey, I'm Jay 👋
 
-Full-stack developer with a strong focus on **PHP** and the modern web ecosystem.
-
-I build things for the web — from robust backends to interactive frontends.
+Full-stack developer with a passion for learning by doing. I mainly work with web technologies, but I also enjoy exploring things like self-hosting, homelabs and DevOps tooling in my spare time.
 
 ---
 
@@ -22,8 +20,14 @@ I build things for the web — from robust backends to interactive frontends.
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+
+**Homelab & infra**
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Docker Compose](https://img.shields.io/badge/Docker%20Compose-2496ED?style=flat&logo=docker&logoColor=white)
+![Traefik](https://img.shields.io/badge/Traefik-24A1C1?style=flat&logo=traefikproxy&logoColor=white)
+![Dokploy](https://img.shields.io/badge/Dokploy-000000?style=flat&logo=data:image/svg+xml;base64,&logoColor=white)
 
 ---
 
