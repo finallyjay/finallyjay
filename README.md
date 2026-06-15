@@ -25,9 +25,3 @@ Full-stack developer with a passion for learning by doing. I mainly work with we
 ![Docker Compose](https://img.shields.io/badge/Docker%20Compose-2496ED?style=flat&logo=docker&logoColor=white)
 ![Traefik](https://img.shields.io/badge/Traefik-24A1C1?style=flat&logo=traefikproxy&logoColor=white)
 
----
-
-### GitHub Stats
-
-![Stats](https://raw.githubusercontent.com/finallyjay/finallyjay/master/profile-summary-card-output/github_dark/3-stats.svg)
-
